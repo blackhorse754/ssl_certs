@@ -1,0 +1,11 @@
+,LastCA_intermediate,#Nodes
+28,"{""C"": ""US"", ""O"": ""Let's Encrypt"", ""CN"": ""R3""}",420301
+21,"{""C"": ""US"", ""O"": ""Cloudflare, Inc."", ""CN"": ""Cloudflare Inc ECC CA-3""}",209616
+175,"{""C"": ""US"", ""O"": ""Let's Encrypt"", ""CN"": ""Let's Encrypt Authority X3""}",89312
+15,"{""C"": ""GB"", ""ST"": ""Greater Manchester"", ""L"": ""Salford"", ""O"": ""Sectigo Limited"", ""CN"": ""Sectigo RSA Domain Validation Secure Server CA""}",84429
+103,"{""C"": ""US"", ""ST"": ""TX"", ""L"": ""Houston"", ""O"": ""cPanel, Inc."", ""CN"": ""cPanel, Inc. Certification Authority""}",56526
+22,"{""C"": ""US"", ""ST"": ""Arizona"", ""L"": ""Scottsdale"", ""O"": ""GoDaddy.com, Inc."", ""OU"": ""http://certs.godaddy.com/repository/"", ""CN"": ""Go Daddy Secure Certificate Authority - G2""}",47384
+18,"{""C"": ""US"", ""O"": ""Amazon"", ""OU"": ""Server CA 1B"", ""CN"": ""Amazon""}",40198
+24,"{""C"": ""US"", ""O"": ""DigiCert Inc"", ""OU"": ""www.digicert.com"", ""CN"": ""Encryption Everywhere DV TLS CA - G1""}",18767
+4,"{""C"": ""US"", ""O"": ""DigiCert Inc"", ""CN"": ""DigiCert SHA2 Secure Server CA""}",16938
+19,"{""C"": ""US"", ""O"": ""DigiCert Inc"", ""OU"": ""www.digicert.com"", ""CN"": ""RapidSSL RSA CA 2018""}",14954
